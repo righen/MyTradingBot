@@ -1,0 +1,12 @@
+requests
+pandas
+scikit-learn
+joblib
+numpy
+matplotlib
+tensorflow
+xgboost
+joblib
+gym
+backtrader
+stable-baselines3[extra]
